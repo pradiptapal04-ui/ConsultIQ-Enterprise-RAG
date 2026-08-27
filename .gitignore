@@ -1,0 +1,18 @@
+# Virtual Environment
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Local Vector Database & Uploads
+faiss_index/
+data/
+*.pdf
+*.txt
+*.csv
+
+# Streamlit config/cache
+.streamlit/
